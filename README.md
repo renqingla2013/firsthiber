@@ -1,0 +1,2 @@
+# firsthiber
+first hibernate test
